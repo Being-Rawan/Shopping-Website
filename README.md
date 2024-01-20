@@ -1,1 +1,1 @@
-# Shopping-Website
+The Shopping Website is a full-stack project collaboratively developed by a team of students at Helwan University. This dynamic online platform offers a myriad of features designed to enhance the user shopping experience.
